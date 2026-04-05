@@ -1,0 +1,30 @@
+img{
+    height: 100px;
+    width: 100px;
+   
+    
+}
+body{
+    background:  rgb(0, 0, 0);
+    text-align: center;
+    padding-top: 30%;
+    color: rgb(254, 254, 254);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+    
+
+
+}
+a{
+    display: block;
+    text-decoration: none;
+    margin: 10% auto;
+    max-width: 100px;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    background:  rgb(0, 51, 255);
+    font-weight: bolder;
+    border-radius: 30px;
+}
+a:hover{
+    background: rgb(135, 135, 135);
+}
